@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EjemploUI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="second_title">Segundo fragmento</string>
+    <string name="main_title">Inicio</string>
+    <string name="button_text">Púlsame</string>
+    <string name="name_hint">Introduce tu nombre</string>
+    <string name="age_hint">Introduce tu edad</string>
+</resources>
